@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Birth days with Akan names</title>
+   <script src="script.js"></script>
+   <link rel="stylesheet" type="text/css" href="bootstrap.css">
+   <link rel="stylesheet" type="text/css" href="styles.css">
+ </head>
+ <body>
+     <img src="candle.gif">
+   <main>
+     <form>
+      
+       <div class="des">
+         <p>Hello there who of you knows the exact day they were born i guess it a few of us i guess... blame to who our mothers ofcourse no they were in alot of pain to remember that 
+             but here i bring you a website  on  which you can use to see your day u were born of , its intresting honestly lets get into it.
+         </p>
+       </div>
+       <div class="input">
+         <div class="first">
+           <p>Enter your birth date in numbers: <input type="number" id="day"></p>
+           <p>Enter your birth month in numbers: <input type="number" id="month"></p>
+         </div>
+         <p>Below is the century digits. For example 1989 has Century = 19. </p>
+         <p>Enter your birth century in numbers. <input type="number" id="century"></p>
+         <p>Then comes the year digits. For example 1989 has Year = 89. </p>
+         <p>Enter your birth year in numbers. <input type="number" id="year"></p>
+       </div>
+       <p class="gen">Gender</p>
+       <div class="gender">
+        <p><input type="radio" name="gender" id="male" value="Male">Male</p>
+        <p><input type="radio" name="gender" id="female" value="Female">Female</p>
+       </div>
+       <div class="submit">
+         <button type="button" id="submit" name="submit" value="Submit" onclick="birthday()">Click here!!!</button>
+        <button type="button" id="clear" name="submit" value="Clear" onclick="res()">Clear</button>
+       </div>
+       <div class="output">
+        <p>Your birthday is <span id="output-day">... </span> month <span id="output-month">... </span> century <span id="output-century">... </span> year <span id="output-year">... </span></p>
+       </div>
+     </form>
+     <div class="name">
+      <p>Your Akan name is <span id="Akan"></span></p>
+     </div>
+   </main>
+ </body>
+</html>
