@@ -8,7 +8,12 @@ function res(){
  document.getElementById("male").checked = false;
  document.getElementById("female").checked = false;
 }
-f;
+function birthday() {
+ var day = parseInt(document.getElementById("day").value);
+ var month= parseInt(document.getElementById("month").value);
+ var CC= parseInt(document.getElementById("century").value);
+ var year= parseInt(document.getElementById("year").value);
+//  var CC= Math.floor((centur/100)+1);
  if (day > 0 && day <= 31 && month > 0 && month <= 12){
    document.getElementById("output-day").innerHTML = day;
    document.getElementById("output-month").innerText = month;
