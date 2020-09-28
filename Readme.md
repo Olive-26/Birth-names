@@ -8,7 +8,7 @@ I am a junior developer with proficiency in HTML and CSS, Javascript. Am current
 * Click on "Click Here!" to see the Akan names
 * Click on "Clear" to clear the input data
 ## BDD
-* Enter  valid the date, month, century and years
+* Enter  valid the date, month, century and year
 * Enter gender
 * If it's Male, display
 Sunday: Kwasi
