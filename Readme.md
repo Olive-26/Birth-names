@@ -19,13 +19,13 @@ Thursday:  Yaw
 Friday: Kofi
 Saturday: Kwame
 * If it's Female, display
-Sunday: Akosua
+Sunday: Akosuah
 Monday: Adwoa
 Tuesday: Abenaa
 Wednesday: Akua
 Thursday:  Yaa
 Friday: Afua
-Saturday: Aman
+Saturday: Ama
 ## Live link
 [Click here](https://github.com/Olive-26/Birth-names.git/)
 ## Technologies Used
