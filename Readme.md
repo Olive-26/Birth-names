@@ -26,3 +26,12 @@ Wednesday: Akua
 Thursday:  Yaa
 Friday: Afua
 Saturday: Ama
+## Live link
+[Click here](https://github.com/Olive-26/Birth-names.git/)
+## Technologies Used
+HTML, CSS and Javascript
+## Contact details
+ Any issues or have questions, ideas or concerns? 
+  Please Get in touch.
+  kaitesi olive
+  0781717613
