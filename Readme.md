@@ -25,7 +25,7 @@ Tuesday: Abenaa
 Wednesday: Akua
 Thursday:  Yaa
 Friday: Afua
-Saturday: Ama
+Saturday: Aman
 ## Live link
 [Click here](https://github.com/Olive-26/Birth-names.git/)
 ## Technologies Used
