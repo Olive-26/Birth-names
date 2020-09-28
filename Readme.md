@@ -8,7 +8,7 @@ I am a junior developer with proficiency in HTML and CSS, Javascript. Am current
 * Click on "Click Here!" to see the Akan names
 * Click on "Clear" to clear the input data
 ## BDD
-* Enter  valid the date, month, century and year
+* Enter  valid the date, month, century and years
 * Enter gender
 * If it's Male, display
 Sunday: Kwasi
@@ -19,9 +19,9 @@ Thursday:  Yaw
 Friday: Kofi
 Saturday: Kwame
 * If it's Female, display
-Sunday: Akosuah
+Sunday: Akosua
 Monday: Adwoa
-Tuesday: Abenaa
+Tuesday: Abenaaa
 Wednesday: Akua
 Thursday:  Yaa
 Friday: Afua
