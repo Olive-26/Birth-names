@@ -1,7 +1,7 @@
 # Birth days and Akan names
 #### This is a website that determines the Akan name of the user from the input birth date and gender, september 2020
 #### By **olive kaitesi**
-## Author's 
+## Author's information
 I am a junior developer with proficiency in HTML and CSS, Javascript. Am currently attending Moringa school of coding. I have worked on a few projects before of which most of them are on Github.
 ## Setup/Instructions
 * Pull or clone the repository if you want use it
