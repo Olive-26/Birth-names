@@ -10,7 +10,7 @@ I am a junior developer with proficiency in HTML and CSS, Javascript. Am current
 ## BDD
 * Enter  valid the date, month, century and year
 * Enter gender
-* If it's Male, display
+* If it's Male, 
 Sunday: Kwasi
 Monday: Kwadwo
 Tuesday: Kwabena
