@@ -6,7 +6,7 @@ I am a junior developer with proficiency in HTML and CSS, Javascript. Am current
 ## Setup/Instructions
 * Pull or clone the repository if you want use it
 * Click on "Click Here!" to see the Akan names
-* Click on "Clear" to clear the input 
+* Click on "Clear" to clear the input data
 ## BDD
 * Enter  valid the date, month, century and year
 * Enter gender
